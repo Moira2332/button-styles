@@ -10,4 +10,43 @@ html {
 div {
   padding: .5rem;
   text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.btn {
+  display: block;
+  padding: 0.4em;
+  background-color:#666;
+  border-radius: 8px;
+  border-width: 3px;
+  color: #fff;
+}
+
+.btn-subtle {
+  display: block;
+  padding: 0.4em;
+}
+
+.btn-ghost {
+  display: block;
+  padding: 0.4em;
+}
+
+.btn-warning {
+  display: block;
+  padding: 0.4em;
+}
+
+.btn-small {
+
+}
+
+.btn-big {
+
 }
