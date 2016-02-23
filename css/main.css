@@ -20,27 +20,29 @@ a {
 }
 
 .btn {
-  display: block;
+  display: inline-block;
   padding: 0.4em;
-  background-color:#666;
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  border-color: #666;
+  background-color:#666;
 }
 
 .btn-subtle {
-  display: block;
-  padding: 0.4em;
+  color: #fff;
+  border-color: #ccc;
+  background-color:#ccc;
 }
 
 .btn-ghost {
-  display: block;
-  padding: 0.4em;
+
 }
 
 .btn-warning {
-  display: block;
-  padding: 0.4em;
+  color: #fff;
+  border-color: #f33;
+  background-color:#f33;
 }
 
 .btn-small {
